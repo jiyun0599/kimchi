@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 김치 탐험대",
+  "description": "초등학생을 위한 재미있고 유익한 김치 역사, 지도, 만들기 시뮬레이션 게임 교육 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
